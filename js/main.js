@@ -10,6 +10,7 @@ menuBars.addEventListener('click', () => {
     mobileMenu.classList.remove('open');
     header.classList.remove('active');
   } else {
+    /* eslint no-trailing-spaces: "error" */
     mobileMenu.style.display = 'flex';
 
     mobileMenu.classList.add('open');
