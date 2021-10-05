@@ -1,0 +1,1 @@
+const menuBars = document.getElementsByClassName('menu-bars')
