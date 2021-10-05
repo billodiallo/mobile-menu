@@ -130,7 +130,7 @@ header.active #desktop-nav ul li {
 
   #desktop-nav,
   #desktop-nav ul {
-    flex-direction: row;
+    flex-direction: column;
     width: initial;
     margin-top: 0;
   }

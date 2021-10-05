@@ -11,7 +11,7 @@ menuBars.addEventListener('click', () => {
     header.classList.remove('active');
   } else {
     mobileMenu.style.display = 'flex';
-    closeBtn.className = 'fas fa-times';
+    
     mobileMenu.classList.add('open');
     header.classList.add('active');
   }
