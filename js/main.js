@@ -11,7 +11,6 @@ menuBars.addEventListener('click', () => {
     header.classList.remove('active');
   } else {
     mobileMenu.style.display = 'flex';
-    
     mobileMenu.classList.add('open');
     header.classList.add('active');
   }
