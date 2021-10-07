@@ -99,9 +99,9 @@ header.active #desktop-nav ul li {
 .nav-link {
   font-family: 'Inter', sans-serif;
   font-style: normal;
-  font-weight: 600;
-  font-size: 24px;
-  line-height: 20px;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
   color: #fff;
   border: 1px solid transparent;
   transition: 350ms;
